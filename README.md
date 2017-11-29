@@ -8,7 +8,4 @@ As an example consider an eCommerce website such as Amazon. The website recommen
 
 The above process represents an application of data science, consisting of a complex blend of multiple technologies and statistical methods.
 
- To learn more about the entire process we suggest you go through the information provided in the following link. 
- 
-
-[The Field Guide to Data Science](https://www.boozallen.com/content/dam/boozallen_site/sig/pdf/publications/2015-field-guide-to-data-science.pdf) -  60 Mins
+ To learn more about the entire process we suggest you go through the information provided in [The Field Guide to Data Science](https://www.boozallen.com/content/dam/boozallen_site/sig/pdf/publications/2015-field-guide-to-data-science.pdf) -  60 Mins
